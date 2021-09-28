@@ -107,9 +107,9 @@ int main()
 {
 	HashTable<std::string> testMap;
 
-	testMap.insertItem(0, "Hallo");
-	testMap.insertItem(1, "I");
-	testMap.insertItem(2, "Bims");
+	testMap.insertItem(0, "1");
+	testMap.insertItem(1, "2");
+	testMap.insertItem(2, "3");
 
 	testMap.insertItem(5, "A");
 	testMap.insertItem(15, "B");
